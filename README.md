@@ -56,4 +56,6 @@ Contributions are welcome! To contribute:
 
 6. ## Demo Video
 
+https://github.com/riturajtripathi139/AI-Reply-LinkedIn/Animation.gif
+
 [Click here to watch the video](./Animation.gif)
