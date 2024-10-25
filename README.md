@@ -55,3 +55,5 @@ Contributions are welcome! To contribute:
 5. Open a Pull Request.
 
 6. ## Demo Video
+
+   ![LinkedIn-AI-Replier](LinkedIn-AI-Reply.gif)
