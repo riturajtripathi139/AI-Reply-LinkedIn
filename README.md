@@ -56,4 +56,4 @@ Contributions are welcome! To contribute:
 
 6. ## Demo Video
 
-[Click here to watch the video](./Animation.mp4)
+[Click here to watch the video](./Animation.gif)
