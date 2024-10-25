@@ -6,7 +6,7 @@ const addMagicImage = () => {
   const container = document.querySelector(".msg-form__msg-content-container");
   if (container) {
     const magicImage = document.createElement("img");
-    magicImage.src = "https://icon-library.com/images/magic-icon-png/magic-icon-png-12.jpg"
+    magicImage.src = "https://cdn-icons-png.flaticon.com/512/8943/8943377.png"
     magicImage.alt = "magic-icon"
     magicImage.style.width = "25px";
     magicImage.style.height = "25px";
