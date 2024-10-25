@@ -55,7 +55,3 @@ Contributions are welcome! To contribute:
 5. Open a Pull Request.
 
 6. ## Demo Video
-
-https://raw.githubusercontent.com/riturajtripathi139/AI-Reply-LinkedIn/refs/heads/main/Animation.gif
-
-[Click here to watch the video](./Animation.gif)
