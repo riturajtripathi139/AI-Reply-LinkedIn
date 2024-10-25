@@ -2,50 +2,41 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Custom scrollbar styles */
 ::-webkit-scrollbar {
-    height: 8px; /* Height of horizontal scrollbar */
+    height: 8px; 
 }
 
-/* Style for the draggable scrollbar thumb */
 ::-webkit-scrollbar-thumb {
-    background: rgba(0, 0, 0, 0.3); /* Light opacity color for the scrollbar thumb */
-    border-radius: 4px; /* Round the thumb edges */
+    background: rgba(0, 0, 0, 0.3); 
+    border-radius: 4px; 
 }
 
-/* Transparent track */
 ::-webkit-scrollbar-track {
-    background: transparent; /* Keep the track transparent */
+    background: transparent; 
 }
 
-/* Hide the buttons on the scrollbar */
 ::-webkit-scrollbar-button {
-    display: none; /* Hide the buttons */
+    display: none; 
 }
 
-/* Transparent bottom corner where both scrollbars meet */
 ::-webkit-scrollbar-corner {
-    background: transparent; /* Keep the bottom corner transparent */
+    background: transparent; 
 }
 
-/* Styles to ensure the scrollbar is visible but light */
 .hide-scrollbar {
-    -ms-overflow-style: none; /* Internet Explorer and Edge */
-    scrollbar-width: thin; /* Make scrollbar thin for Firefox */
+    -ms-overflow-style: none; 
+    scrollbar-width: thin; 
 }
 
-/* Hide the scrollbar for Chrome/Safari if you want, but keep the thumb visible */
 .hide-scrollbar::-webkit-scrollbar {
-    width: 8px; /* Maintain width to see thumb */
+    width: 8px; 
 }
 
-/* Use this class on the parent element that has the overflow */
 .hide-scrollbar::-webkit-scrollbar-thumb {
-    background: rgba(0, 0, 0, 0.3); /* Light opacity color for the scrollbar thumb */
-    border-radius: 4px; /* Round the thumb edges */
+    background: rgba(0, 0, 0, 0.3); 
+    border-radius: 4px; 
 }
 
-/* Keep track transparent */
 .hide-scrollbar::-webkit-scrollbar-track {
-    background: transparent; /* Track remains transparent */
+    background: transparent;
 }
